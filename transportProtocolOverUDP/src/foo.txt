@@ -1,0 +1,1439 @@
+<!DOCTYPE html>
+<!-- saved from url=(0038)http://www.sp1.pulawy.pl/index.php/pl/ -->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl-PL" lang="pl-PL" style="height: 100%;"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<!--<base href="http://www.sp1.pulawy.pl/index.php/pl/">--><base href=".">
+	
+	<meta name="description" content="Szkoła, Podstawowa, nr1, Puławy, Kościuszko, Tadeusz, nauczyciele, uczniowie, rodzice, szkoła podstawowa nr1. im. Tadeusza Kościuszki w Puławach">
+	<meta name="generator" content="Joomla! - Open Source Content Management">
+	<title>STRONA GŁÓWNA</title>
+	<link href="http://www.sp1.pulawy.pl/index.php/pl/?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0">
+	<link href="http://www.sp1.pulawy.pl/index.php/pl/?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0">
+	<link href="http://www.sp1.pulawy.pl/templates/shape5_vertex/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+	<link rel="stylesheet" href="./STRONA GŁÓWNA_files/style3.css" type="text/css">
+	<link rel="stylesheet" href="./STRONA GŁÓWNA_files/jcemediabox.css" type="text/css">
+	<link rel="stylesheet" href="./STRONA GŁÓWNA_files/style.css" type="text/css">
+	<link rel="stylesheet" href="./STRONA GŁÓWNA_files/camera.css" type="text/css">
+	<link rel="stylesheet" href="./STRONA GŁÓWNA_files/css" type="text/css">
+	<style type="text/css">
+.fb_iframe_widget {max-width: none;} .fb_iframe_widget_lift  {max-width: none;}
+ @media print { .css_buttons0,.css_buttons1,.css_fb_like,.css_fb_share,.css_fb_send,css_fb_photo,.css_fb_comments,.css_fb_comments_count { display:none }}
+#goog-gt-tt {display:none !important;}
+.goog-te-banner-frame {display:none !important;}
+.goog-te-menu-value:hover {text-decoration:none !important;}
+body {top:0 !important;}
+#google_translate_element2 {display:none!important;}
+
+        a.flag {text-decoration:none;}
+        a.flag img {vertical-align:middle;padding:0;margin:0;border:0;display:inline;height:32px;opacity:0.8;}
+        a.flag:hover img {opacity:1;}
+        a.flag span {margin-right:5px;font-size:15px;vertical-align:middle;}
+    
+#camera_wrap_93 .camera_pag_ul li img, #camera_wrap_93 .camera_thumbs_cont ul li > img {height:75px;}
+#camera_wrap_93 .camera_caption {
+	display: block;
+	position: absolute;
+}
+#camera_wrap_93 .camera_caption > div {
+	-moz-border-radius: 5px 5px 5px 5px;-webkit-border-radius: 5px 5px 5px 5px;border-radius: 5px 5px 5px 5px;font-family:'Droid Sans';
+}
+#camera_wrap_93 .camera_caption > div div.camera_caption_title {
+	font-size: 12px;
+}
+#camera_wrap_93 .camera_caption > div div.camera_caption_desc {
+	font-size: 10px;
+}
+
+@media screen and (max-width: 480px) {
+		#camera_wrap_93 .camera_caption {
+			font-size: 0.6em !important;
+		}
+}
+	</style>
+	<script src="./STRONA GŁÓWNA_files/jquery.min.js" type="text/javascript"></script>
+	<script src="./STRONA GŁÓWNA_files/jquery-noconflict.js" type="text/javascript"></script>
+	<script src="./STRONA GŁÓWNA_files/jquery-migrate.min.js" type="text/javascript"></script>
+	<script src="./STRONA GŁÓWNA_files/caption.js" type="text/javascript"></script>
+	<script src="./STRONA GŁÓWNA_files/bootstrap.min.js" type="text/javascript"></script>
+	<script src="./STRONA GŁÓWNA_files/jcemediabox.js" type="text/javascript"></script>
+	<script src="./STRONA GŁÓWNA_files/sdk.js" type="text/javascript"></script>
+	<script src="./STRONA GŁÓWNA_files/jquery.ui.core.min.js" type="text/javascript"></script>
+	<script src="./STRONA GŁÓWNA_files/jquery.ui.sortable.min.js" type="text/javascript"></script>
+	<script src="./STRONA GŁÓWNA_files/jquery-ui-addons.js" type="text/javascript"></script>
+	<script src="./STRONA GŁÓWNA_files/jquery.easing.1.3.js" type="text/javascript"></script>
+	<script src="./STRONA GŁÓWNA_files/camera.min.js" type="text/javascript"></script>
+	<script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});
+jQuery(function($){ $(".hasTooltip").tooltip({"html": true,"container": "body"}); });
+              function info_cookie(){
+                 document.cookie = 'info_cookie=1';
+                 document.getElementById('panel_cookie_dol').style.display='none';             
+              }
+              window.addEvent('load', function() {
+                var cookies = document.cookie.split(';');
+                if(!cookies.length)
+                  document.getElementById('panel_cookie_dol').style.display='none'; 
+               });
+         
+JCEMediaBox.init({popup:{width:"",height:"",legacy:0,lightbox:0,shadowbox:0,resize:1,icons:1,overlay:1,overlayopacity:0.8,overlaycolor:"#000000",fadespeed:500,scalespeed:500,hideobjects:0,scrolling:"fixed",close:2,labels:{'close':'Zamknij','next':'Następne','previous':'Poprzednie','cancel':'Anuluj','numbers':'{$current} z {$total}'},cookie_expiry:"",google_viewer:0},tooltip:{className:"tooltip",opacity:0.8,speed:150,position:"br",offsets:{x: 16, y: 16}},base:"/",imgpath:"plugins/system/jcemediabox/img",theme:"standard",themecustom:"",themepath:"plugins/system/jcemediabox/themes",mediafallback:0,mediaselector:"audio,video"});
+		jQuery(document).ready(function(){
+			new Slideshowck('#camera_wrap_93', {
+				 height: '295',
+				 minHeight: '150',
+				 pauseOnClick: false,
+				 hover: 1,
+				 fx: 'random',
+				 loader: 'pie',
+				 pagination: 1,
+				 thumbnails: 1,
+				 thumbheight: 75,
+				 thumbwidth: 100,
+				 time: 7000,
+				 transPeriod: 1500,
+				 alignment: 'center',
+				 autoAdvance: 1,
+				 mobileAutoAdvance: 1,
+				 portrait: 0,
+				 barDirection: 'leftToRight',
+				 imagePath: '/modules/mod_slideshowck/images/',
+				 lightbox: 'mediaboxck',
+				 fullpage: 0,
+				 mobileimageresolution: '640',
+				 navigationHover: true,
+					mobileNavHover: true,
+					navigation: true,
+					playPause: true,
+				 barPosition: 'bottom',
+				 responsiveCaption: 0,
+				 container: ''
+		});
+}); 
+
+	</script>
+
+
+
+			<meta name="viewport" content="initial-scale=1.0">
+	
+	<link href="http://www.sp1.pulawy.pl/templates/shape5_vertex/favicon.ico" rel="shortcut icon" type="image/x-icon">
+
+<script type="text/javascript">
+	if(jQuery().jquery=='1.11.0') { jQuery.easing['easeOutExpo'] = jQuery.easing['easeOutCirc'] };
+</script>
+
+	<link href="./STRONA GŁÓWNA_files/bootstrap-default-min.css" rel="stylesheet" type="text/css">
+	<link href="./STRONA GŁÓWNA_files/bootstrap-responsive.css" rel="stylesheet" type="text/css">
+		
+	<link rel="stylesheet" href="./STRONA GŁÓWNA_files/font-awesome.min.css">
+	
+
+<!-- Css and js addons for vertex features -->	
+	<link rel="stylesheet" type="text/css" href="./STRONA GŁÓWNA_files/css(1)">
+<style type="text/css">  #s5_nav { font-size:0.9em !important; } /* MAX IMAGE WIDTH */img {  height:auto !important;   max-width:100% !important; -webkit-box-sizing: border-box !important; /* Safari/Chrome, other WebKit */ -moz-box-sizing: border-box !important; /* Firefox, other Gecko */ box-sizing: border-box !important; /* Opera/IE 8+ */  }#map_canvas img, .gm-style img { max-width:none !important; }.full_width { width:100% !important; -webkit-box-sizing: border-box !important; /* Safari/Chrome, other WebKit */ -moz-box-sizing: border-box !important; /* Firefox, other Gecko */ box-sizing: border-box !important; /* Opera/IE 8+ */ }.S5_submenu_itemTablet{ background:none !important; } #s5_right_wrap, #s5_left_wrap, #s5_right_inset_wrap, #s5_left_inset_wrap, #s5_right_top_wrap, #s5_left_top_wrap, #s5_right_bottom_wrap, #s5_left_bottom_wrap { width:100% !important; }   #s5_right_column_wrap { width:10% !important; margin-left:-20% !important; } #s5_left_column_wrap { width:10% !important; } #s5_center_column_wrap_inner { margin-right:20% !important; margin-left:20% !important; }  #s5_responsive_mobile_drop_down_wrap input { width:96% !important; } #s5_responsive_mobile_drop_down_search input { width:100% !important; }  @media screen and (max-width: 750px){ body { height:100% !important; position:relative !important;  padding-bottom:48px !important;  } #s5_responsive_menu_button { display:block !important; }  }  @media screen and (max-width: 970px){ #subMenusContainer .S5_subtext { width:85%; } }   #s5_responsive_mobile_bottom_bar, #s5_responsive_mobile_top_bar { background:#0B0B0B; background: -moz-linear-gradient(top, #272727 0%, #0B0B0B 100%); /* FF3.6+ */ background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#272727), color-stop(100%,#0B0B0B)); /* Chrome,Safari4+ */ background: -webkit-linear-gradient(top, #272727 0%,#0B0B0B 100%); /* Chrome10+,Safari5.1+ */ background: -o-linear-gradient(top, #272727 0%,#0B0B0B 100%); /* Opera11.10+ */ background: -ms-linear-gradient(top, #272727 0%,#0B0B0B 100%); /* IE10+ */ background: linear-gradient(top, #272727 0%,#0B0B0B 100%); /* W3C */   font-family: Droid Sans !important; } .s5_responsive_mobile_drop_down_inner, .s5_responsive_mobile_drop_down_inner input, .s5_responsive_mobile_drop_down_inner button, .s5_responsive_mobile_drop_down_inner .button, #s5_responsive_mobile_drop_down_search .validate { font-family: Droid Sans !important; } .s5_responsive_mobile_drop_down_inner button:hover, .s5_responsive_mobile_drop_down_inner .button:hover { background:#0B0B0B !important; } #s5_responsive_mobile_drop_down_menu, #s5_responsive_mobile_drop_down_menu a, #s5_responsive_mobile_drop_down_login a { font-family: Droid Sans !important; color:#FFFFFF !important; } #s5_responsive_mobile_bar_active, #s5_responsive_mobile_drop_down_menu .current a, .s5_responsive_mobile_drop_down_inner .s5_mod_h3, .s5_responsive_mobile_drop_down_inner .s5_h3_first { color:#BBBABA !important; } .s5_responsive_mobile_drop_down_inner button, .s5_responsive_mobile_drop_down_inner .button { background:#BBBABA !important; } #s5_responsive_mobile_drop_down_menu .active ul li, #s5_responsive_mobile_drop_down_menu .current ul li a, #s5_responsive_switch_mobile a, #s5_responsive_switch_desktop a, #s5_responsive_mobile_drop_down_wrap { color:#FFFFFF !important; } #s5_responsive_mobile_toggle_click_menu span { border-right:solid 1px #272727; } #s5_responsive_mobile_toggle_click_menu { border-right:solid 1px #0B0B0B; } #s5_responsive_mobile_toggle_click_search span, #s5_responsive_mobile_toggle_click_register span, #s5_responsive_mobile_toggle_click_login span, #s5_responsive_mobile_scroll a { border-left:solid 1px #272727; } #s5_responsive_mobile_toggle_click_search, #s5_responsive_mobile_toggle_click_register, #s5_responsive_mobile_toggle_click_login, #s5_responsive_mobile_scroll { border-left:solid 1px #0B0B0B; } .s5_responsive_mobile_open, .s5_responsive_mobile_closed:hover, #s5_responsive_mobile_scroll:hover { background:#272727; } #s5_responsive_mobile_drop_down_menu .s5_responsive_mobile_drop_down_inner, #s5_responsive_mobile_drop_down_register .s5_responsive_mobile_drop_down_inner, #s5_responsive_mobile_drop_down_login .s5_responsive_mobile_drop_down_inner, #s5_responsive_mobile_drop_down_search .s5_responsive_mobile_drop_down_inner { background:#272727; } .s5_wrap { max-width:1200px !important; }                           .subMenusContainer, .s5_drop_down_container { position: fixed !important; } #s5_menu_wrap.s5_wrap {    position: fixed;  z-index:2;   margin-top:0px !important; }   #s5_menu_wrap { -webkit-transition: top 300ms ease-out; -moz-transition: top 300ms ease-out; -o-transition:top 300ms ease-out; transition: top 300ms ease-out; } #s5_menu_wrap.s5_wrap_fmfullwidth, #s5_menu_wrap.s5_wrap { top:0px; }  #s5_menu_wrap.s5_wrap, #s5_menu_wrap.s5_wrap_fmfullwidth {    }    </style><script type="text/javascript">  jQuery(document).ready( function() {  if (window.addEventListener) { window.addEventListener('scroll', s5_fm_check_scroll_height, false); } else if (window.attachEvent) { window.attachEvent('onscroll', s5_fm_check_scroll_height); } window.setTimeout(s5_fm_check_scroll_height,100); } ); var s5_menu_wrap_height = 0; var s5_menu_wrap_parent_height = 0; var s5_menu_wrap_parent_parent_height = 0; var s5_menu_wrap_run = "no"; function s5_fm_check_scroll_height() { if (s5_menu_wrap_run == "no") { s5_menu_wrap_height = document.getElementById("s5_menu_wrap").offsetHeight; s5_menu_wrap_parent_height = document.getElementById("s5_menu_wrap").parentNode.offsetHeight; s5_menu_wrap_parent_parent_height = document.getElementById("s5_menu_wrap").parentNode.parentNode.offsetHeight; s5_menu_wrap_run = "yes"; }    var s5_fmenuheight_new = 999999;  s5_fmenuheight_new = document.getElementById("s5_menu_wrap").offsetHeight;  if (window.pageYOffset >= 300 - s5_fmenuheight_new){ document.getElementById("s5_menu_wrap").style.top = "0px";} else {document.getElementById("s5_menu_wrap").style.top = "-500px";}  if (window.pageYOffset >= 300 && window.innerWidth > 750){ document.getElementById("s5_floating_menu_spacer").style.height = s5_menu_wrap_height + "px"; document.getElementById("s5_menu_wrap").className = 's5_wrap'; document.getElementById("subMenusContainer").className = 'subMenusContainer'; if (s5_menu_wrap_parent_height >= s5_menu_wrap_height - 20 && s5_menu_wrap_parent_parent_height >= s5_menu_wrap_height - 20 && document.getElementById("s5_menu_wrap").parentNode.style.position != "absolute" && document.getElementById("s5_menu_wrap").parentNode.parentNode.style.position != "absolute") { document.getElementById("s5_floating_menu_spacer").style.display = "block"; } } else { document.getElementById("s5_menu_wrap").className = ''; document.getElementById("subMenusContainer").className = ''; document.getElementById("s5_floating_menu_spacer").style.display = "none"; } }   </script>
+<script type="text/javascript" src="./STRONA GŁÓWNA_files/s5_flex_menu-min.js"></script>
+<link rel="stylesheet" href="./STRONA GŁÓWNA_files/s5_flex_menu.css" type="text/css">
+<link rel="stylesheet" href="./STRONA GŁÓWNA_files/system.css" type="text/css">
+<link rel="stylesheet" href="./STRONA GŁÓWNA_files/general.css" type="text/css">
+
+<link href="./STRONA GŁÓWNA_files/template_default.css" rel="stylesheet" type="text/css">
+
+<link href="./STRONA GŁÓWNA_files/template.css" rel="stylesheet" type="text/css">
+
+
+<link href="./STRONA GŁÓWNA_files/com_content.css" rel="stylesheet" type="text/css">
+
+<link href="./STRONA GŁÓWNA_files/editor.css" rel="stylesheet" type="text/css">
+
+<link href="./STRONA GŁÓWNA_files/thirdparty.css" rel="stylesheet" type="text/css">
+
+
+<link rel="stylesheet" type="text/css" href="./STRONA GŁÓWNA_files/css(1)">
+
+<link href="./STRONA GŁÓWNA_files/multibox.css" rel="stylesheet" type="text/css">
+<link href="./STRONA GŁÓWNA_files/ajax.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="./STRONA GŁÓWNA_files/overlay.js"></script>
+<script type="text/javascript" src="./STRONA GŁÓWNA_files/multibox.js"></script>
+
+<script type="text/javascript" src="./STRONA GŁÓWNA_files/s5_font_adjuster-min.js"></script>
+
+
+	<link rel="stylesheet" type="text/css" href="./STRONA GŁÓWNA_files/s5_responsive_bars-min.css">
+	<link href="./STRONA GŁÓWNA_files/s5_responsive_hide_classes-min.css" rel="stylesheet" type="text/css">
+	<style type="text/css"> @media screen and (min-width: 650px){.s5_responsive_mobile_sidebar_show_ltr {width:400px !important;}.s5_responsive_mobile_sidebar_body_wrap_show_ltr {margin-left:400px !important;}.s5_responsive_mobile_sidebar_show_rtl {width:400px !important;}.s5_responsive_mobile_sidebar_body_wrap_show_rtl {margin-right:400px !important;}#s5_responsive_mobile_sidebar_inner1 {width:400px !important;}}</style>
+
+
+	<link rel="stylesheet" type="text/css" href="./STRONA GŁÓWNA_files/s5_responsive.css">
+	
+	
+
+<link rel="stylesheet" type="text/css" href="./STRONA GŁÓWNA_files/custom.css">	<script type="text/javascript">
+	//<![CDATA[
+				        jQuery(document).ready( function() {
+		            var myMenu = new MenuMatic({
+				tabletWidth:1400,
+                effect:"slide & fade",
+                duration:500,
+                physics: 'easeOutCirc',
+                hideDelay:250,
+                orientation:"horizontal",
+                tweakInitial:{x:0, y:0},
+				                                     	            direction:{    x: 'right',    y: 'down' },
+				                opacity:100            });
+        });		
+			//]]>	
+    </script>    
+
+<!-- Info Slide Script - Called in header so css validates -->	
+
+	
+
+<!-- Resize column function -->	
+
+<!-- File compression. Needs to be called last on this file -->	
+<!-- The excluded files, listed below the compressed php files, are excluded because their calls vary per device or per browser. Included compression files are only ones that have no conditions and are included on all devices and browsers. Otherwise unwanted css will compile in the compressed files. -->	
+
+<!-- Additional scripts to load inside of the header -->
+
+
+
+<link rel="stylesheet" type="text/css" href="./STRONA GŁÓWNA_files/css(2)">
+
+<style type="text/css"> 
+body {font-family: 'Droid Sans',Helvetica,Arial,Sans-Serif ;
+background:#FDFFEE;
+} 
+
+#s5_search input, #s5_menu_wrap, .s5_mod_h3, #subMenusContainer, h2 {
+font-family: Droid Sans;
+}
+
+#s5_menu_wrap, .s5_mod_h3 {
+text-transform:uppercase;
+}
+
+
+
+#s5_header_area_inner2, .module_round_box, .module_round_box-dark, #s5_component_wrap, #s5_footer_area_inner2 {
+-webkit-box-shadow: 0 0px 8px #F7F7E7;
+-moz-box-shadow: 0 0px 8px #F7F7E7;
+box-shadow: 0 0px 8px #F7F7E7; 
+}
+
+a, .module_round_box .s5_h3_first, .module_round_box-none .s5_h3_first, .module_round_box ul.menu .current a, h2, h4, #s5_md_outer_wrap h3 {
+color:#AF1A12;
+}
+
+#s5_nav li.active a, #s5_nav li.mainMenuParentBtnFocused a, #s5_nav li:hover a, .btn-link {
+color:#AF1A12;
+}
+
+.btn-primary, .button, li.pagenav-next, li.pagenav-prev, .validate, .dropdown-menu li > a:hover, .dropdown-menu li > a:focus, .dropdown-submenu:hover > a, .dropdown-menu .active > a, .dropdown-menu .active > a:hover, .nav-list > .active > a, .nav-list > .active > a:hover, .nav-pills > .active > a, .nav-pills > .active > a:hover, .btn-group.open .btn-primary.dropdown-toggle, .pager a {
+background:#AF1A12;
+}
+
+#subMenusContainer div.s5_sub_wrap ul, #subMenusContainer div.s5_sub_wrap_rtl ul, #subMenusContainer div.s5_sub_wrap_lower ul, #subMenusContainer div.s5_sub_wrap_lower_rtl ul {
+border-bottom:solid 3px #AF1A12;
+}
+
+
+
+
+/* k2 stuff */
+div.itemHeader h2.itemTitle, div.catItemHeader h3.catItemTitle, h3.userItemTitle a, #comments-form p, #comments-report-form p, #comments-form span, #comments-form .counter, #comments .comment-author, #comments .author-homepage,
+#comments-form p, #comments-form #comments-form-buttons, #comments-form #comments-form-error, #comments-form #comments-form-captcha-holder {font-family: 'Droid Sans',Helvetica,Arial,Sans-Serif ;} 
+	
+.s5_wrap{width:96%;}	
+</style>
+<link type="text/css" rel="stylesheet" charset="UTF-8" href="./STRONA GŁÓWNA_files/translateelement.css"><script type="text/javascript" charset="UTF-8" src="./STRONA GŁÓWNA_files/main.js"></script><style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}.fb_link img{border:none}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_reset .fb_dialog_legacy{overflow:visible}.fb_dialog_advanced{padding:10px;-moz-border-radius:8px;-webkit-border-radius:8px;border-radius:8px}.fb_dialog_content{background:#fff;color:#333}.fb_dialog_close_icon{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{top:5px;left:5px;right:auto}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent}.fb_dialog_close_icon:active{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent}.fb_dialog_loader{background-color:#f6f7f9;border:1px solid #606060;font-size:24px;padding:20px}.fb_dialog_top_left,.fb_dialog_top_right,.fb_dialog_bottom_left,.fb_dialog_bottom_right{height:10px;width:10px;overflow:hidden;position:absolute}.fb_dialog_top_left{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 0;left:-10px;top:-10px}.fb_dialog_top_right{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 -10px;right:-10px;top:-10px}.fb_dialog_bottom_left{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 -20px;bottom:-10px;left:-10px}.fb_dialog_bottom_right{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 -30px;right:-10px;bottom:-10px}.fb_dialog_vert_left,.fb_dialog_vert_right,.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{position:absolute;background:#525252;filter:alpha(opacity=70);opacity:.7}.fb_dialog_vert_left,.fb_dialog_vert_right{width:10px;height:100%}.fb_dialog_vert_left{margin-left:-10px}.fb_dialog_vert_right{right:0;margin-right:-10px}.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{width:100%;height:10px}.fb_dialog_horiz_top{margin-top:-10px}.fb_dialog_horiz_bottom{bottom:0;margin-bottom:-10px}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{-webkit-transform:none;height:100%;margin:0;overflow:visible;position:absolute;top:-10000px;left:0;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{width:auto;height:auto;min-height:initial;min-width:initial;background:none}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{color:#fff;display:block;padding-top:20px;clear:both;font-size:18px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .45);position:absolute;bottom:0;left:0;right:0;top:0;width:100%;min-height:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_content .dialog_header{-webkit-box-shadow:white 0 1px 1px -1px inset;background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#738ABA), to(#2C4987));border-bottom:1px solid;border-color:#1d4088;color:#fff;font:14px Helvetica, sans-serif;font-weight:bold;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{-webkit-font-smoothing:subpixel-antialiased;height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#4966A6), color-stop(.5, #355492), to(#2A4887));border:1px solid #29487d;-webkit-background-clip:padding-box;-webkit-border-radius:3px;-webkit-box-shadow:rgba(0, 0, 0, .117188) 0 1px 1px inset, rgba(255, 255, 255, .167969) 0 1px 0;display:inline-block;margin-top:3px;max-width:85px;line-height:18px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{border:none;background:none;color:#fff;font:12px Helvetica, sans-serif;font-weight:bold;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #555;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f6f7f9;border:1px solid #555;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_button{text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png);background-repeat:no-repeat;background-position:50% 50%;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_hide_iframes iframe{position:relative;left:-10000px}.fb_iframe_widget_loader{position:relative;display:inline-block}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}.fb_iframe_widget_loader iframe{min-height:32px;z-index:2;zoom:1}.fb_iframe_widget_loader .FB_Loader{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat;height:32px;width:32px;margin-left:-16px;position:absolute;left:50%;z-index:4}</style><script type="text/javascript" charset="UTF-8" src="./STRONA GŁÓWNA_files/element_main.js"></script></head>
+
+<body id="s5_body" class="" style="position: relative; min-height: 100%; top: 0px;"><span style="position: absolute; left: -9999px; line-height: 1em;">&nbsp;</span><div id="fb-root"></div>
+
+<div id="s5_scrolltotop"></div>
+
+<!-- Top Vertex Calls -->
+<!-- Call mobile sidebar -->
+
+<!-- Call top bar for mobile devices if layout is responsive -->	
+	
+	<!-- s5_responsive_mobile_top_bar_spacer must be called to keep a space at the top of the page since s5_responsive_mobile_top_bar_wrap is position absolute. -->	
+	<div id="s5_responsive_mobile_top_bar_spacer"></div>
+
+	<!-- s5_responsive_mobile_top_bar_wrap must be called off the page and not with display:none or it will cause issues with the togglers. -->
+	<div id="s5_responsive_mobile_top_bar_wrap" style="margin-top:-50000px;position:absolute;z-index:20;top:0px">
+
+		<div id="s5_responsive_mobile_top_bar" class="s5_responsive_mobile_bar_light">
+
+				<div id="s5_responsive_mobile_toggle_click_menu" style="display:block;" class="s5_responsive_mobile_closed">
+					<span></span>
+				</div>
+				
+									<div id="s5_responsive_mobile_bar_active">
+						<span>
+							STRONA GŁÓWNA						</span>
+					</div>
+								
+				<div id="s5_responsive_mobile_toggle_click_login" style="display:none;float:right" class="s5_responsive_mobile_closed">
+					<span></span>
+				</div>
+				
+				<div id="s5_responsive_mobile_toggle_click_register" style="display:none;float:right" class="s5_responsive_mobile_closed">
+					<span></span>
+				</div>
+				
+				<div id="s5_responsive_mobile_toggle_click_search" style="display:block;float:right" class="s5_responsive_mobile_closed">
+					<span></span>
+				</div>
+
+			<div style="clear:both;height:0px"></div>
+			
+		</div>
+
+		<div id="s5_responsive_mobile_drop_down_wrap" class="">
+			<div style="margin: 0px; position: static; overflow: hidden; height: 0px;"><div id="s5_responsive_mobile_drop_down_menu" style="margin-top: -408px;">
+				<div class="s5_responsive_mobile_drop_down_inner" style="-webkit-box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.6);-moz-box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.6);box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.6);">
+											
+<ul class="menu">
+<li class="item-101 current active"><a href="http://www.sp1.pulawy.pl/index.php/pl/">STRONA GŁÓWNA</a></li><li class="item-108 deeper parent"><span class="separator ">O SZKOLE</span>
+<ul><li class="item-116"><a href="http://www.sp1.pulawy.pl/index.php/pl/about/2016-02-03-08-55-48">Nasza szkoła</a></li><li class="item-117"><a href="http://www.sp1.pulawy.pl/index.php/pl/about/2016-02-03-11-08-16" target="_blank">Hymn szkoły</a></li><li class="item-118"><a href="http://www.sp1.pulawy.pl/index.php/pl/about/nasz-patron">Nasz patron</a></li><li class="item-119"><a href="http://www.sp1.pulawy.pl/index.php/pl/about/grono-pedagogiczne">Grono pedagogiczne</a></li><li class="item-124"><a href="http://www.sp1.pulawy.pl/index.php/pl/about/samorzad-uczniowski">Samorząd uczniowski</a></li><li class="item-125"><a href="http://www.sp1.pulawy.pl/index.php/pl/about/rada-rodzicow">Rada rodziców</a></li></ul></li><li class="item-120 deeper parent"><span class="separator ">OFERTA EDUKACYJNA</span>
+<ul><li class="item-123"><a href="http://www.sp1.pulawy.pl/tmp/Dokumenty/ofertaszkoly.pdf" target="_blank">Nasza oferta</a></li><li class="item-189"><a href="http://www.sp1.pulawy.pl/index.php/pl/oferta-edukacyjna/biblioteka">Biblioteka</a></li><li class="item-121"><a href="http://www.sp1.pulawy.pl/index.php/pl/oferta-edukacyjna/szkolny-klub-europejski">Szkolny Klub Europejski</a></li><li class="item-122"><a href="http://puzzle-in-cultures-culture-jam.webnode.cz/" target="_blank">eTwining</a></li><li class="item-126"><a href="http://www.sp1.pulawy.pl/index.php/pl/oferta-edukacyjna/2016-02-05-12-43-17" target="_blank">ERASMUS</a></li></ul></li><li class="item-127 deeper parent"><span class="separator ">INFORMACJE I OGŁOSZENIA</span>
+<ul><li class="item-305"><a href="http://www.sp1.pulawy.pl/index.php/pl/informacje-i-ogloszenia/ogloszenia">Ogłoszenia</a></li><li class="item-195"><a href="http://www.sp1.pulawy.pl/index.php/pl/informacje-i-ogloszenia/alternatywa">Alternatywa</a></li><li class="item-131"><a href="http://www.sp1.pulawy.pl/index.php/pl/informacje-i-ogloszenia/stolowka-obiady">Stołówka / Obiady</a></li><li class="item-128"><a href="http://www.sp1.pulawy.pl/index.php/pl/informacje-i-ogloszenia/dokumenty-do-pobrania">Dokumenty do pobrania</a></li><li class="item-129"><a href="http://www.sp1.pulawy.pl/index.php/pl/informacje-i-ogloszenia/przydatne-strony-www">Przydatne strony www</a></li></ul></li><li class="item-132 deeper parent"><span class="separator ">NASZE SUKCESY</span>
+<ul><li class="item-133"><a href="http://www.sp1.pulawy.pl/index.php/pl/nasze-sukcesy/konkursy">Konkursy</a></li></ul></li><li class="item-149"><a href="http://www.sp1.pulawy.pl/index.php/pl/galeria">GALERIA</a></li><li class="item-150"><a href="http://www.sp1.pulawy.pl/index.php/pl/kontakt">KONTAKT</a></li></ul>
+									</div>
+			</div></div>
+			
+			<div style="margin: 0px; position: static; overflow: hidden; height: 0px;"><div id="s5_responsive_mobile_drop_down_search" style="margin-top: -39px;">
+				<div class="s5_responsive_mobile_drop_down_inner" style="-webkit-box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.6);-moz-box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.6);box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.6);">
+										  						<form method="post" action="http://www.sp1.pulawy.pl/">
+							<input type="text" onfocus="if (this.value==&#39;Szukaj...&#39;) this.value=&#39;&#39;;" onblur="if (this.value==&#39;&#39;) this.value=&#39;Szukaj...&#39;;" value="Szukaj..." id="s5_responsive_mobile_search" name="searchword">
+							<input type="hidden" value="search" name="task">
+							<input type="hidden" value="com_search" name="option">
+							<input type="hidden" value="1" name="Itemid">
+						</form>
+									</div>
+			</div></div>
+			
+			<div style="margin: 0px; position: static; overflow: hidden; height: 0px;"><div id="s5_responsive_mobile_drop_down_login" style="margin-top: 0px;">
+				<div class="s5_responsive_mobile_drop_down_inner" id="s5_responsive_mobile_drop_down_login_inner" style="-webkit-box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.6);-moz-box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.6);box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.6);">
+				</div>
+			</div></div>
+			
+					
+			<div style="margin: 0px; position: static; overflow: hidden; height: 0px;"><div id="s5_responsive_mobile_drop_down_register" style="margin-top: 0px;">
+				<div class="s5_responsive_mobile_drop_down_inner" id="s5_responsive_mobile_drop_down_register_inner" style="-webkit-box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.6);-moz-box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.6);box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.6);">
+				</div>
+			</div></div>
+			
+							
+		</div>
+
+	</div>
+
+	<script type="text/javascript">
+		var s5_responsive_trigger = 750;
+		var s5_responsive_login_url = "";
+		var s5_responsive_register_url = "";
+		var s5_responsive_layout = "dropdowns";
+	</script>
+	<script type="text/javascript" src="./STRONA GŁÓWNA_files/s5_responsive_mobile_bar-min.js"></script>
+	
+
+<!-- Fixed Tabs -->	
+
+<!-- Drop Down -->	
+
+<!-- Parallax Backgrounds -->
+
+<!-- Floating Menu Spacer -->
+	
+<div id="s5_floating_menu_spacer" style="display:none;width:100%;"></div>
+
+<!-- Body Padding Div Used For Responsive Spacing -->		
+<div id="s5_body_padding">
+
+	<!-- Header -->			
+		<header id="s5_header_area1">		
+		<div id="s5_header_area2">	
+		<div id="s5_header_area_inner" class="s5_wrap">		
+		<div id="s5_header_area_inner2">	
+			<div id="s5_header_wrap">
+			
+									<img alt="logo" style="height:120px;width:1200px" src="./STRONA GŁÓWNA_files/s5_logo.png" id="s5_logo" onclick="window.document.location.href=&#39;http://www.sp1.pulawy.pl/&#39;">
+								
+								
+				<div style="clear:both; height:0px"></div>			
+			</div>
+			
+							<nav id="s5_menu_wrap" class="" style="top: -500px;">
+											<ul id="s5_nav" class="menu"><li class="active  mainMenuParentBtn"><span class="s5_level1_span1"><span class="s5_level1_span2"><a href="http://www.sp1.pulawy.pl/index.php/pl/"><span onclick="window.document.location.href=&quot;/index.php/pl/&quot;">STRONA GŁÓWNA</span></a></span></span></li><li class="mainParentBtn mainMenuParentBtn"><span class="s5_level1_span1"><span class="s5_level1_span2"><a href="javascript:;"><span onclick="window.document.location.href=&quot;javascript:;&quot;">O SZKOLE</span></a></span></span></li><li class="mainMenuParentBtn mainParentBtn"><span class="s5_level1_span1"><span class="s5_level1_span2"><a href="javascript:;"><span onclick="window.document.location.href=&quot;javascript:;&quot;">OFERTA EDUKACYJNA</span></a></span></span></li><li class="mainParentBtn mainMenuParentBtn"><span class="s5_level1_span1"><span class="s5_level1_span2"><a href="javascript:;"><span onclick="window.document.location.href=&quot;javascript:;&quot;">INFORMACJE I OGŁOSZENIA</span></a></span></span></li><li class="mainMenuParentBtn mainParentBtn"><span class="s5_level1_span1"><span class="s5_level1_span2"><a href="javascript:;"><span onclick="window.document.location.href=&quot;javascript:;&quot;">NASZE SUKCESY</span></a></span></span></li><li class="mainMenuParentBtn"><span class="s5_level1_span1"><span class="s5_level1_span2"><a href="http://www.sp1.pulawy.pl/index.php/pl/galeria"><span onclick="window.document.location.href=&quot;/index.php/pl/galeria&quot;">GALERIA</span></a></span></span></li><li class="mainMenuParentBtn"><span class="s5_level1_span1"><span class="s5_level1_span2"><a href="http://www.sp1.pulawy.pl/index.php/pl/kontakt"><span onclick="window.document.location.href=&quot;/index.php/pl/kontakt&quot;">KONTAKT</span></a></span></span></li></ul>															<div style="clear:both; height:0px"></div>
+				</nav>
+						
+							<div id="s5_breadcrumb_fonts_wrap">
+										
+											<div id="s5_social_wrap1">
+							<div id="s5_social_wrap_inner">
+							
+																	<div id="s5_facebook" onclick="window.open(&#39;https://www.facebook.com/sp1pulawy/&#39;)"></div>
+									
+									
+																	<div id="s5_twitter" onclick="window.open(&#39;http://sp1pulawy.bip.lubelskie.pl/index.php?id=6&#39;)"></div>
+																									
+								
+																
+																	<div id="fontControls"><a class="decreaseSize" href="javascript:;fontControls">A</a><a class="resetSize" href="javascript:;fontControls">A</a><a class="increaseSize" href="javascript:;fontControls">A</a></div>
+															
+							</div>
+						</div>
+									
+				<div style="clear:both;height:0px"></div>
+				</div>
+			
+						
+		</div>
+		</div>
+		</div>
+		</header>
+	<!-- End Header -->	
+	
+		
+	
+	<!-- Top Row1 -->	
+					<section id="s5_top_row1_area1">
+			<div id="s5_top_row1_area2">
+			<div id="s5_top_row1_area_inner" class="s5_wrap">
+
+				<div id="s5_top_row1_wrap">
+					<div id="s5_top_row1">
+					<div id="s5_top_row1_inner">
+					
+													<div id="s5_pos_top_row1_1" class="s5_float_left" style="width:80%">
+											
+			<div class="module_round_box_outer">
+			
+			<div class="module_round_box">
+
+				<div class="s5_module_box_1">
+					<div class="s5_module_box_2">
+												<div class="s5_outer">
+						
+		<!--[if lte IE 7]>
+		<link href="/modules/mod_slideshowck/themes/default/css/camera_ie.css" rel="stylesheet" type="text/css" />
+		<![endif]-->
+		<!--[if IE 8]>
+		<link href="/modules/mod_slideshowck/themes/default/css/camera_ie8.css" rel="stylesheet" type="text/css" />
+		<![endif]--><!-- debut Slideshow CK -->
+<div class="slideshowck camera_wrap camera_amber_skin" id="camera_wrap_93" style="width:905px;">
+			<div data-thumb="/images/th/th/big_bunny_fake_th.jpg" data-src="/images/th/big_bunny_fake.jpg">
+											<div class="camera_caption moveFromLeft">
+					<div class="camera_caption_title">
+						Nasza Szkoła											</div>
+										<div class="camera_caption_desc">
+																	</div>
+									</div>
+									</div>
+		<div data-thumb="/images/th/plywanie_th.jpg" data-src="/images/plywanie.jpg">
+											<div class="camera_caption moveFromLeft">
+					<div class="camera_caption_title">
+						Ogólnopolskie Drużynowe Zawody Dzieci 10 i 11 lat w pływaniu											</div>
+										<div class="camera_caption_desc">
+																	</div>
+									</div>
+									</div>
+		<div data-thumb="/images/th/th/22road_th.jpg" data-src="/images/th/22road.jpg">
+											<div class="camera_caption moveFromLeft">
+					<div class="camera_caption_title">
+						Pracownia Komputerowa											</div>
+										<div class="camera_caption_desc">
+																	</div>
+									</div>
+									</div>
+</div>
+<div style="clear:both;"></div>
+<!-- fin Slideshow CK -->
+						</div>
+						<div style="clear:both; height:0px"></div>
+					</div>
+				</div>
+
+			</div>
+			
+			</div>
+
+		
+							</div>
+												
+													<div id="s5_pos_top_row1_2" class="s5_float_left" style="width:20%">
+											
+			<div class="module_round_box_outer">
+			
+			<div class="module_round_box">
+
+				<div class="s5_module_box_1">
+					<div class="s5_module_box_2">
+												<div class="s5_outer">
+						
+
+<div class="custom">
+	<p style="text-align: right;"><a href="https://synergia.librus.pl/loguj" target="_blank" rel="alternate"><img src="./STRONA GŁÓWNA_files/c817af8888961673eff212f86e353350.jpg.png" alt="" width="240" height="100"></a></p>
+<p style="text-align: right;">&nbsp;</p>
+<p style="text-align: right;"><a href="http://www.pulawy.eu/" target="_blank" rel="alternate"><img src="./STRONA GŁÓWNA_files/43caef428dced8d5f22221b07eec3f4c.jpg" alt="" width="240" height="100"></a></p>
+<p style="text-align: right;">&nbsp;</p>
+<p style="text-align: right;"><a href="https://men.gov.pl/pl/jakosc-edukacji/edukacja-informatyczna/cyfrowa-szkola-aktualnosci" target="_blank" rel="alternate"><img src="./STRONA GŁÓWNA_files/20fcad431f21391732b8743c41147044.jpg.png" alt="" width="240" height="100"></a>&nbsp;</p>
+<p style="text-align: right;"><br><br></p></div>
+						</div>
+						<div style="clear:both; height:0px"></div>
+					</div>
+				</div>
+
+			</div>
+			
+			</div>
+
+		
+							</div>
+												
+												
+												
+												
+												
+						<div style="clear:both; height:0px"></div>
+
+					</div>
+					</div>
+				</div>
+
+		</div>
+		</div>
+		</section>
+			<!-- End Top Row1 -->	
+		
+		
+		
+	<!-- Top Row2 -->	
+			<!-- End Top Row2 -->
+	
+	
+	
+	<!-- Top Row3 -->	
+			<!-- End Top Row3 -->	
+		
+		
+		
+	<!-- Center area -->	
+				<section id="s5_center_area1">
+		<div id="s5_center_area2">
+		<div id="s5_center_area_inner" class="s5_wrap">
+		
+		<!-- Above Columns Wrap -->	
+					<!-- End Above Columns Wrap -->			
+				
+			<!-- Columns wrap, contains left, right and center columns -->	
+			<div id="s5_columns_wrap">
+			<div id="s5_columns_wrap_inner">
+				
+				<div id="s5_center_column_wrap">
+				<div id="s5_center_column_wrap_inner" style="margin-left:20px; margin-right:20px;">
+					
+										
+											
+						<div id="s5_component_wrap">
+						<div id="s5_component_wrap_inner">
+						
+																
+														<main>
+								<div id="system-message-container">
+	</div>
+
+<div class="blog" itemscope="" itemtype="https://schema.org/Blog">
+	
+	
+	
+	
+	
+		
+	
+																	<div class="items-row cols-3 row-0 row-fluid clearfix">
+						<div class="span4">
+				<div class="item column-1" itemprop="blogPost" itemscope="" itemtype="https://schema.org/BlogPosting">
+					
+
+			<div class="page-header">
+
+							<h2 itemprop="name">
+											Zebrania z Rodzicami - 19 września 2017 r. (wtorek)									</h2>
+			
+											</div>
+	
+
+
+
+
+
+
+
+<p style="text-align: center;"><br><img src="./STRONA GŁÓWNA_files/zebranie_19.09.2017.jpg" alt=""></p>
+<p style="margin: 0px; color: #333333; font-family: &#39;Droid Sans&#39;, Helvetica, Arial, sans-serif; font-size: 12px; text-align: justify;"><span style="margin: 0px; padding: 0px; color: #1d2129; font-family: verdana, geneva; font-size: 10.6667px;">Szanowni Rodzice w dniu 19 września 2017r. (wtorek) Dyrekcja szkoły, Wychowawcy oraz Nauczyciele zapraszają na zebrania.</span></p>
+
+
+
+	
+<p class="readmore">
+	<a class="btn" href="http://www.sp1.pulawy.pl/index.php/pl/218-zebrania-z-rodzicami-19-wrzesnia-2017-r-wtorek" itemprop="url">
+		<span class="icon-chevron-right"></span>
+		Czytaj więcej...	</a>
+</p>
+
+
+
+				</div>
+				<!-- end item -->
+							</div><!-- end span -->
+														<div class="span4">
+				<div class="item column-2" itemprop="blogPost" itemscope="" itemtype="https://schema.org/BlogPosting">
+					
+
+			<div class="page-header">
+
+							<h2 itemprop="name">
+											Co rodzic powinien wiedzieć w nowym roku szkolnym 2017/2018?									</h2>
+			
+											</div>
+	
+
+
+
+
+
+
+
+<p style="text-align: center;"><img src="./STRONA GŁÓWNA_files/Broszura-MEN_do_rodzicow-655x926.png" alt=""></p>
+<p style="text-align: justify;">Przed nami nowy rok szkolny, w którym zaplanowano zmiany w polskiej oświacie, &nbsp;<a href="http://www.sp1.pulawy.pl/tmp/Dokumenty/broszuramen.pdf" target="_blank" rel="noopener noreferrer"><strong>BROSZURA MEN</strong></a> (kliknij)</p>
+
+
+
+	
+<p class="readmore">
+	<a class="btn" href="http://www.sp1.pulawy.pl/index.php/pl/217-co-rodzic-powinien-wiedziec-w-nowym-roku-szkolnym-2017-2018" itemprop="url">
+		<span class="icon-chevron-right"></span>
+		Czytaj więcej...	</a>
+</p>
+
+
+
+				</div>
+				<!-- end item -->
+							</div><!-- end span -->
+														<div class="span4">
+				<div class="item column-3" itemprop="blogPost" itemscope="" itemtype="https://schema.org/BlogPosting">
+					
+
+			<div class="page-header">
+
+							<h2 itemprop="name">
+											Rocznica wybuchu II Wojny Światowej									</h2>
+			
+											</div>
+	
+
+
+
+
+
+
+
+<p style="text-align: center;"><img src="./STRONA GŁÓWNA_files/rocznicaIIwojny1.jpg" width="600" height="1067"></p>
+<p style="text-align: justify;">1 września 2017 r. w całym kraju obchodzimy 78 rocznicę wybuchu II Wojny Światowej.</p>
+
+
+
+	
+<p class="readmore">
+	<a class="btn" href="http://www.sp1.pulawy.pl/index.php/pl/216-rocznica-wybuchu-ii-wojny-swiatowej" itemprop="url">
+		<span class="icon-chevron-right"></span>
+		Czytaj więcej...	</a>
+</p>
+
+
+
+				</div>
+				<!-- end item -->
+							</div><!-- end span -->
+							</div><!-- end row -->
+																			<div class="items-row cols-3 row-1 row-fluid clearfix">
+						<div class="span4">
+				<div class="item column-1" itemprop="blogPost" itemscope="" itemtype="https://schema.org/BlogPosting">
+					
+
+			<div class="page-header">
+
+							<h2 itemprop="name">
+											Rozpoczęcie Roku Szkolnego 2017/2018									</h2>
+			
+											</div>
+	
+
+
+
+
+
+
+
+<p style="text-align: center;"><strong>Uroczyste rozpoczęcie roku szkolnego 2017/2018</strong></p>
+<p style="text-align: center;"><img src="./STRONA GŁÓWNA_files/witaj_szkolo.png" alt=""></p>
+<p style="text-align: center;">Inauguracja Roku Szkolnego&nbsp;<strong>2017/2018</strong> odbędzie się&nbsp;<span style="color: #ff0000;"><strong>4 września 2017r. (poniedziałek).</strong></span></p>
+<p>&nbsp;</p>
+
+
+
+	
+<p class="readmore">
+	<a class="btn" href="http://www.sp1.pulawy.pl/index.php/pl/215-rozpoczecie-roku-szkolnego-2017-2018" itemprop="url">
+		<span class="icon-chevron-right"></span>
+		Czytaj więcej...	</a>
+</p>
+
+
+
+				</div>
+				<!-- end item -->
+							</div><!-- end span -->
+														<div class="span4">
+				<div class="item column-2" itemprop="blogPost" itemscope="" itemtype="https://schema.org/BlogPosting">
+					
+
+			<div class="page-header">
+
+							<h2 itemprop="name">
+											Podręczniki - ogłoszenie									</h2>
+			
+											</div>
+	
+
+
+
+
+
+
+
+<p><br><br><br><img src="./STRONA GŁÓWNA_files/Podreczniki-szkolne-jak-kupowac-141901-900x900.jpg" width="800" height="554" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<p>W roku szkolnym 2017/2018 uczniowie klas I – VII</p>
+
+
+
+	
+<p class="readmore">
+	<a class="btn" href="http://www.sp1.pulawy.pl/index.php/pl/214-podreczniki-ogloszenie" itemprop="url">
+		<span class="icon-chevron-right"></span>
+		Czytaj więcej...	</a>
+</p>
+
+
+
+				</div>
+				<!-- end item -->
+							</div><!-- end span -->
+														<div class="span4">
+				<div class="item column-3" itemprop="blogPost" itemscope="" itemtype="https://schema.org/BlogPosting">
+					
+
+			<div class="page-header">
+
+							<h2 itemprop="name">
+											Nasze nowe boiska sportowe - budowa									</h2>
+			
+											</div>
+	
+
+
+
+
+
+
+
+<p style="text-align: center;"><img src="./STRONA GŁÓWNA_files/IMG_1480.JPG" width="800" height="600"></p>
+<p style="text-align: justify;">Mimo wakacji prace przy budowie naszego boiska sportowego idą pełną parą. <strong><a href="http://www.sp1.pulawy.pl/index.php/pl/galeria/nasze-nowe-boiska-sportowe-budowa/nasze-nowe-boiska-sportowe-budowa-1-2274#joomimg" target="_blank" rel="noopener noreferrer">Galeria foto</a></strong></p>
+
+
+
+	
+<p class="readmore">
+	<a class="btn" href="http://www.sp1.pulawy.pl/index.php/pl/213-nasze-nowe-boisko-sportowe" itemprop="url">
+		<span class="icon-chevron-right"></span>
+		Czytaj więcej...	</a>
+</p>
+
+
+
+				</div>
+				<!-- end item -->
+							</div><!-- end span -->
+							</div><!-- end row -->
+																			<div class="items-row cols-3 row-2 row-fluid clearfix">
+						<div class="span4">
+				<div class="item column-1" itemprop="blogPost" itemscope="" itemtype="https://schema.org/BlogPosting">
+					
+
+			<div class="page-header">
+
+							<h2 itemprop="name">
+											Nasz nowy kompleks sportowy									</h2>
+			
+											</div>
+	
+
+
+
+
+
+
+
+<p style="text-align: center;"><br><img src="./STRONA GŁÓWNA_files/IMG_1405.JPG" class="pull-center" width="800" height="600"></p>
+<p style="text-align: justify;">Przedstawiamy galerię z budowy naszego nowego&nbsp;<strong style="text-align: justify;"><a href="http://www.sp1.pulawy.pl/index.php/pl/galeria/nowe-boisko/nowe-boisko-1-2262#joomimg" target="_blank" rel="noopener noreferrer">Galeria foto</a></strong></p>
+
+
+
+	
+<p class="readmore">
+	<a class="btn" href="http://www.sp1.pulawy.pl/index.php/pl/212-nasz-nowy-kompleks-sportowy" itemprop="url">
+		<span class="icon-chevron-right"></span>
+		Czytaj więcej...	</a>
+</p>
+
+
+
+				</div>
+				<!-- end item -->
+							</div><!-- end span -->
+														<div class="span4">
+				<div class="item column-2" itemprop="blogPost" itemscope="" itemtype="https://schema.org/BlogPosting">
+					
+
+			<div class="page-header">
+
+							<h2 itemprop="name">
+											Wakacje									</h2>
+			
+											</div>
+	
+
+
+
+
+
+
+
+<p style="text-align: center;"><br><img src="./STRONA GŁÓWNA_files/Wakacje.jpg" alt=""></p>
+
+
+
+	
+<p class="readmore">
+	<a class="btn" href="http://www.sp1.pulawy.pl/index.php/pl/102-wakacje" itemprop="url">
+		<span class="icon-chevron-right"></span>
+		Czytaj więcej...	</a>
+</p>
+
+
+
+				</div>
+				<!-- end item -->
+							</div><!-- end span -->
+														<div class="span4">
+				<div class="item column-3" itemprop="blogPost" itemscope="" itemtype="https://schema.org/BlogPosting">
+					
+
+			<div class="page-header">
+
+							<h2 itemprop="name">
+											Zakończenie Roku Szkolnego 2016/2017									</h2>
+			
+											</div>
+	
+
+
+
+
+
+
+
+<p style="text-align: center;"><img src="./STRONA GŁÓWNA_files/zakoczenie_roku.png" alt=""></p>
+<p style="text-align: justify;">Serdecznie zapraszamy na <strong>Uroczyste Zakończenie Roku Szkolnego 2016/2017</strong>, które odbędzie się dnia 23 czerwca 2017r. w następującym porządku:</p>
+
+
+
+	
+<p class="readmore">
+	<a class="btn" href="http://www.sp1.pulawy.pl/index.php/pl/210-zakonczenie-roku-szkolnego" itemprop="url">
+		<span class="icon-chevron-right"></span>
+		Czytaj więcej...	</a>
+</p>
+
+
+
+				</div>
+				<!-- end item -->
+							</div><!-- end span -->
+							</div><!-- end row -->
+						
+	
+				<div class="pagination">
+							<p class="counter pull-right"> Strona 1 z 21 </p>
+						<ul><li class="pagination-start"><span class="pagenav">start</span></li><li class="pagination-prev"><span class="pagenav">Poprzedni artykuł</span></li><li><span class="pagenav">1</span></li><li><a href="http://www.sp1.pulawy.pl/index.php/pl/?start=9" class="pagenav">2</a></li><li><a href="http://www.sp1.pulawy.pl/index.php/pl/?start=18" class="pagenav">3</a></li><li><a href="http://www.sp1.pulawy.pl/index.php/pl/?start=27" class="pagenav">4</a></li><li><a href="http://www.sp1.pulawy.pl/index.php/pl/?start=36" class="pagenav">5</a></li><li><a href="http://www.sp1.pulawy.pl/index.php/pl/?start=45" class="pagenav">6</a></li><li><a href="http://www.sp1.pulawy.pl/index.php/pl/?start=54" class="pagenav">7</a></li><li><a href="http://www.sp1.pulawy.pl/index.php/pl/?start=63" class="pagenav">8</a></li><li><a href="http://www.sp1.pulawy.pl/index.php/pl/?start=72" class="pagenav">9</a></li><li><a href="http://www.sp1.pulawy.pl/index.php/pl/?start=81" class="pagenav">10</a></li><li class="pagination-next"><a title="" href="http://www.sp1.pulawy.pl/index.php/pl/?start=9" class="hasTooltip pagenav" data-original-title="Następny artykuł">Następny artykuł</a></li><li class="pagination-end"><a title="" href="http://www.sp1.pulawy.pl/index.php/pl/?start=180" class="hasTooltip pagenav" data-original-title="koniec">koniec</a></li></ul> </div>
+	</div>
+
+								<div style="clear:both;height:0px"></div>
+							</main>
+														
+														
+						</div>
+						</div>
+						
+										
+										
+				</div>
+				</div>
+				<!-- Left column -->	
+									<aside id="s5_left_column_wrap" class="s5_float_left" style="width:20px">
+					<div id="s5_left_column_wrap_inner">
+																			<div id="s5_left_wrap" class="s5_float_left" style="width:20px">
+											
+			<div class="module_round_box_outer">
+			
+			<div class="module_round_box">
+
+				<div class="s5_module_box_1">
+					<div class="s5_module_box_2">
+												<div class="s5_mod_h3_outer">
+							<h3 class="s5_mod_h3">
+															<span class="s5_h3_first">Rok </span><span class="s5_h3_last"> Tadeusza Kościuszki</span>
+								
+							</h3>
+													</div>
+												<div class="s5_mod_h3_below" style="clear:both"></div>
+												<div class="s5_outer">
+						
+
+<div class="custom">
+	<p style="text-align: center;"><a href="http://www.sp1.pulawy.pl/index.php/pl/171-rok-tadeusza-kosciuszki" target="_blank" rel="noopener noreferrer"><img src="./STRONA GŁÓWNA_files/Kociuszko1.jpg" alt=""></a></p></div>
+						</div>
+						<div style="clear:both; height:0px"></div>
+					</div>
+				</div>
+
+			</div>
+			
+			</div>
+
+					
+			<div class="module_round_box_outer">
+			
+			<div class="module_round_box">
+
+				<div class="s5_module_box_1">
+					<div class="s5_module_box_2">
+												<div class="s5_mod_h3_outer">
+							<h3 class="s5_mod_h3">
+															<span class="s5_h3_first">LOGOWANIE </span><span class="s5_h3_last"> POCZTA E-MAIL</span>
+								
+							</h3>
+													</div>
+												<div class="s5_mod_h3_below" style="clear:both"></div>
+												<div class="s5_outer">
+						
+
+<div class="custom">
+	<p style="text-align: center;"><a href="http://sp1.pulawy.pl:2095/logout/?locale=pl" target="_blank"><img src="./STRONA GŁÓWNA_files/1webmail.png" alt=""></a></p></div>
+						</div>
+						<div style="clear:both; height:0px"></div>
+					</div>
+				</div>
+
+			</div>
+			
+			</div>
+
+					
+			<div class="module_round_box_outer">
+			
+			<div class="module_round_box">
+
+				<div class="s5_module_box_1">
+					<div class="s5_module_box_2">
+												<div class="s5_mod_h3_outer">
+							<h3 class="s5_mod_h3">
+															<span class="s5_h3_first">REFORMA </span><span class="s5_h3_last"> EDUKACJI</span>
+								
+							</h3>
+													</div>
+												<div class="s5_mod_h3_below" style="clear:both"></div>
+												<div class="s5_outer">
+						
+
+<div class="custom">
+	<p><a href="http://reformaedukacji.men.gov.pl/" target="_blank"><img src="./STRONA GŁÓWNA_files/reforma_edukacji1.png" alt="" style="display: block; margin-left: auto; margin-right: auto;"></a></p></div>
+						</div>
+						<div style="clear:both; height:0px"></div>
+					</div>
+				</div>
+
+			</div>
+			
+			</div>
+
+					
+			<div class="module_round_box_outer">
+			
+			<div class="module_round_box">
+
+				<div class="s5_module_box_1">
+					<div class="s5_module_box_2">
+												<div class="s5_mod_h3_outer">
+							<h3 class="s5_mod_h3">
+															<span class="s5_h3_first">KONSULTACJE </span><span class="s5_h3_last"> dla RODZICÓW</span>
+								
+							</h3>
+													</div>
+												<div class="s5_mod_h3_below" style="clear:both"></div>
+												<div class="s5_outer">
+						
+
+<div class="custom">
+	<p style="text-align: center;"><img src="./STRONA GŁÓWNA_files/konsultacje.jpg" alt=""></p></div>
+						</div>
+						<div style="clear:both; height:0px"></div>
+					</div>
+				</div>
+
+			</div>
+			
+			</div>
+
+					
+			<div class="module_round_box_outer">
+			
+			<div class="module_round_box">
+
+				<div class="s5_module_box_1">
+					<div class="s5_module_box_2">
+												<div class="s5_mod_h3_outer">
+							<h3 class="s5_mod_h3">
+															<span class="s5_h3_first">PODRĘCZNIKI </span><span class="s5_h3_last"> 2016/2017</span>
+								
+							</h3>
+													</div>
+												<div class="s5_mod_h3_below" style="clear:both"></div>
+												<div class="s5_outer">
+						
+
+<div class="custom">
+	<p style="text-align: center;"><a href="http://www.sp1.pulawy.pl/tmp/Dokumenty/1WYKAZ%20%20PODR%C4%98CZNIK%C3%93W%20I%20%C4%86WICZE%C5%83_0_3.pdf" target="_blank" rel="alternate"><img src="./STRONA GŁÓWNA_files/podreczniki031.png" alt=""></a></p>
+<hr>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><a href="http://www.sp1.pulawy.pl/tmp/Dokumenty/2WYKAZ%20%20PODR%C4%98CZNIK%C3%93W%20I%20%C4%86WICZE%C5%83_4_6.pdf" target="_blank" rel="alternate"><img src="./STRONA GŁÓWNA_files/podreczniki461.png" alt=""></a></p></div>
+						</div>
+						<div style="clear:both; height:0px"></div>
+					</div>
+				</div>
+
+			</div>
+			
+			</div>
+
+					
+			<div class="module_round_box_outer">
+			
+			<div class="module_round_box">
+
+				<div class="s5_module_box_1">
+					<div class="s5_module_box_2">
+												<div class="s5_mod_h3_outer">
+							<h3 class="s5_mod_h3">
+															<span class="s5_h3_first">KALENDARZ </span><span class="s5_h3_last"> ROKU SZKOLNEGO</span>
+								
+							</h3>
+													</div>
+												<div class="s5_mod_h3_below" style="clear:both"></div>
+												<div class="s5_outer">
+						
+
+<div class="custom">
+	<p style="text-align: center;"><a href="http://www.sp1.pulawy.pl/tmp/Dokumenty/KALENDARIUM%20%20ROKU%20%20SZKOLNEGO%202016.pdf" target="_blank"><img src="./STRONA GŁÓWNA_files/kalendarz_2016_2017.jpg" alt=""></a></p></div>
+						</div>
+						<div style="clear:both; height:0px"></div>
+					</div>
+				</div>
+
+			</div>
+			
+			</div>
+
+					
+			<div class="module_round_box_outer">
+			
+			<div class="module_round_box">
+
+				<div class="s5_module_box_1">
+					<div class="s5_module_box_2">
+												<div class="s5_mod_h3_outer">
+							<h3 class="s5_mod_h3">
+															<span class="s5_h3_first">DNI </span><span class="s5_h3_last"> WOLNE</span>
+								
+							</h3>
+													</div>
+												<div class="s5_mod_h3_below" style="clear:both"></div>
+												<div class="s5_outer">
+						
+
+<div class="custom">
+	<p style="text-align: center;"><img src="./STRONA GŁÓWNA_files/wolne1.jpg" alt=""></p></div>
+						</div>
+						<div style="clear:both; height:0px"></div>
+					</div>
+				</div>
+
+			</div>
+			
+			</div>
+
+		
+							</div>
+																							</div>
+					</aside>
+								<!-- End Left column -->	
+				<!-- Right column -->	
+									<aside id="s5_right_column_wrap" class="s5_float_left" style="width:20px; margin-left:-40px">
+					<div id="s5_right_column_wrap_inner">
+													<div id="s5_right_top_wrap" class="s5_float_left" style="width:20px">
+											
+			<div class="module_round_box_outer">
+			
+			<div class="module_round_box">
+
+				<div class="s5_module_box_1">
+					<div class="s5_module_box_2">
+												<div class="s5_outer">
+						
+
+<script type="text/javascript">
+/* <![CDATA[ */
+function GTranslateGetCurrentLang() {var keyValue = document.cookie.match('(^|;) ?googtrans=([^;]*)(;|$)');return keyValue ? keyValue[2].split('/')[2] : null;}
+function GTranslateFireEvent(element,event){try{if(document.createEventObject){var evt=document.createEventObject();element.fireEvent('on'+event,evt)}else{var evt=document.createEvent('HTMLEvents');evt.initEvent(event,true,true);element.dispatchEvent(evt)}}catch(e){}}
+function doGTranslate(lang_pair){if(lang_pair.value)lang_pair=lang_pair.value;if(lang_pair=='')return;var lang=lang_pair.split('|')[1];if(GTranslateGetCurrentLang() == null && lang == lang_pair.split('|')[0])return;var teCombo;var sel=document.getElementsByTagName('select');for(var i=0;i<sel.length;i++)if(sel[i].className=='goog-te-combo')teCombo=sel[i];if(document.getElementById('google_translate_element2')==null||document.getElementById('google_translate_element2').innerHTML.length==0||teCombo.length==0||teCombo.innerHTML.length==0){setTimeout(function(){doGTranslate(lang_pair)},500)}else{teCombo.value=lang;GTranslateFireEvent(teCombo,'change');GTranslateFireEvent(teCombo,'change')}}
+/* ]]> */
+</script>
+<div id="google_translate_element2"><div class="skiptranslate goog-te-gadget" dir="ltr" style=""><div id=":0.targetLanguage"><select class="goog-te-combo"><option value="">Select Language</option><option value="en">English</option><option value="af">Afrikaans</option><option value="sq">Albanian</option><option value="am">Amharic</option><option value="ar">Arabic</option><option value="hy">Armenian</option><option value="az">Azerbaijani</option><option value="eu">Basque</option><option value="be">Belarusian</option><option value="bn">Bengali</option><option value="bs">Bosnian</option><option value="bg">Bulgarian</option><option value="ca">Catalan</option><option value="ceb">Cebuano</option><option value="ny">Chichewa</option><option value="zh-CN">Chinese (Simplified)</option><option value="zh-TW">Chinese (Traditional)</option><option value="co">Corsican</option><option value="hr">Croatian</option><option value="cs">Czech</option><option value="da">Danish</option><option value="nl">Dutch</option><option value="eo">Esperanto</option><option value="et">Estonian</option><option value="tl">Filipino</option><option value="fi">Finnish</option><option value="fr">French</option><option value="fy">Frisian</option><option value="gl">Galician</option><option value="ka">Georgian</option><option value="de">German</option><option value="el">Greek</option><option value="gu">Gujarati</option><option value="ht">Haitian Creole</option><option value="ha">Hausa</option><option value="haw">Hawaiian</option><option value="iw">Hebrew</option><option value="hi">Hindi</option><option value="hmn">Hmong</option><option value="hu">Hungarian</option><option value="is">Icelandic</option><option value="ig">Igbo</option><option value="id">Indonesian</option><option value="ga">Irish</option><option value="it">Italian</option><option value="ja">Japanese</option><option value="jw">Javanese</option><option value="kn">Kannada</option><option value="kk">Kazakh</option><option value="km">Khmer</option><option value="ko">Korean</option><option value="ku">Kurdish (Kurmanji)</option><option value="ky">Kyrgyz</option><option value="lo">Lao</option><option value="la">Latin</option><option value="lv">Latvian</option><option value="lt">Lithuanian</option><option value="lb">Luxembourgish</option><option value="mk">Macedonian</option><option value="mg">Malagasy</option><option value="ms">Malay</option><option value="ml">Malayalam</option><option value="mt">Maltese</option><option value="mi">Maori</option><option value="mr">Marathi</option><option value="mn">Mongolian</option><option value="my">Myanmar (Burmese)</option><option value="ne">Nepali</option><option value="no">Norwegian</option><option value="ps">Pashto</option><option value="fa">Persian</option><option value="pt">Portuguese</option><option value="pa">Punjabi</option><option value="ro">Romanian</option><option value="ru">Russian</option><option value="sm">Samoan</option><option value="gd">Scots Gaelic</option><option value="sr">Serbian</option><option value="st">Sesotho</option><option value="sn">Shona</option><option value="sd">Sindhi</option><option value="si">Sinhala</option><option value="sk">Slovak</option><option value="sl">Slovenian</option><option value="so">Somali</option><option value="es">Spanish</option><option value="su">Sundanese</option><option value="sw">Swahili</option><option value="sv">Swedish</option><option value="tg">Tajik</option><option value="ta">Tamil</option><option value="te">Telugu</option><option value="th">Thai</option><option value="tr">Turkish</option><option value="uk">Ukrainian</option><option value="ur">Urdu</option><option value="uz">Uzbek</option><option value="vi">Vietnamese</option><option value="cy">Welsh</option><option value="xh">Xhosa</option><option value="yi">Yiddish</option><option value="yo">Yoruba</option><option value="zu">Zulu</option></select></div>Powered by <span style="white-space:nowrap"><a class="goog-logo-link" href="https://translate.google.com/" target="_blank"><img src="./STRONA GŁÓWNA_files/googlelogo_color_42x16dp.png" width="37px" height="14px" style="padding-right: 3px" alt="Google Translate">Translate</a></span></div></div>
+<script type="text/javascript">function googleTranslateElementInit2() {new google.translate.TranslateElement({pageLanguage: 'pl', autoDisplay: false}, 'google_translate_element2');}</script>
+<script type="text/javascript" src="./STRONA GŁÓWNA_files/element.js"></script>
+
+<a href="http://www.sp1.pulawy.pl/index.php/pl/#" onclick="doGTranslate(&#39;pl|pl&#39;);return false;" title="Polish" class="flag nturl notranslate"><img src="./STRONA GŁÓWNA_files/pl.png" height="32" width="32" alt="pl"></a><a href="http://www.sp1.pulawy.pl/index.php/pl/#" onclick="doGTranslate(&#39;pl|en&#39;);return false;" title="English" class="flag nturl notranslate"><img src="./STRONA GŁÓWNA_files/en.png" height="32" width="32" alt="en"></a><a href="http://www.sp1.pulawy.pl/index.php/pl/#" onclick="doGTranslate(&#39;pl|fr&#39;);return false;" title="French" class="flag nturl notranslate"><img src="./STRONA GŁÓWNA_files/fr.png" height="32" width="32" alt="fr"></a><a href="http://www.sp1.pulawy.pl/index.php/pl/#" onclick="doGTranslate(&#39;pl|de&#39;);return false;" title="German" class="flag nturl notranslate"><img src="./STRONA GŁÓWNA_files/de.png" height="32" width="32" alt="de"></a><a href="http://www.sp1.pulawy.pl/index.php/pl/#" onclick="doGTranslate(&#39;pl|es&#39;);return false;" title="Spanish" class="flag nturl notranslate"><img src="./STRONA GŁÓWNA_files/es-mx.png" height="32" width="32" alt="es"></a>						</div>
+						<div style="clear:both; height:0px"></div>
+					</div>
+				</div>
+
+			</div>
+			
+			</div>
+
+		
+							</div>
+																									<div id="s5_right_wrap" class="s5_float_left" style="width:20px">
+											
+			<div class="module_round_box_outer">
+			
+			<div class="module_round_box">
+
+				<div class="s5_module_box_1">
+					<div class="s5_module_box_2">
+												<div class="s5_mod_h3_outer">
+							<h3 class="s5_mod_h3">
+															<span class="s5_h3_first">BEZPIECZNA </span><span class="s5_h3_last"> SZKOŁA</span>
+								
+							</h3>
+													</div>
+												<div class="s5_mod_h3_below" style="clear:both"></div>
+												<div class="s5_outer">
+						
+
+<div class="custom">
+	<p style="text-align: center;"><a href="http://www.sp1.pulawy.pl/tmp/Dokumenty/certyfikatbezszkola.jpg" target="_blank" rel="alternate"><img src="./STRONA GŁÓWNA_files/bez_szkola.png" alt="" width="162" height="200"></a><br><span style="color: #ff0000;"><strong>Zobacz Certyfikat</strong></span></p></div>
+						</div>
+						<div style="clear:both; height:0px"></div>
+					</div>
+				</div>
+
+			</div>
+			
+			</div>
+
+					
+			<div class="module_round_box_outer">
+			
+			<div class="module_round_box">
+
+				<div class="s5_module_box_1">
+					<div class="s5_module_box_2">
+												<div class="s5_outer">
+						
+
+<div class="custom">
+	<p align="center"><img class="pull-center" src="./STRONA GŁÓWNA_files/spd_200x100.gif" alt=""><br><span style="color: #ff0000; font-weight: bold;">Certyfikat przyznano<br>5 maja 2006r.</span></p></div>
+						</div>
+						<div style="clear:both; height:0px"></div>
+					</div>
+				</div>
+
+			</div>
+			
+			</div>
+
+					
+			<div class="module_round_box_outer">
+			
+			<div class="module_round_box">
+
+				<div class="s5_module_box_1">
+					<div class="s5_module_box_2">
+												<div class="s5_outer">
+						
+
+<div class="custom">
+	<p style="text-align: center;"><img src="./STRONA GŁÓWNA_files/cert1.gif" alt=""></p></div>
+						</div>
+						<div style="clear:both; height:0px"></div>
+					</div>
+				</div>
+
+			</div>
+			
+			</div>
+
+					
+			<div class="module_round_box_outer">
+			
+			<div class="module_round_box">
+
+				<div class="s5_module_box_1">
+					<div class="s5_module_box_2">
+												<div class="s5_outer">
+						
+
+<div class="custom">
+	<p><a href="http://www.gwiazdor.pl/strona/9247,oficjalna-strona-szkoly-postawowej-nr1-im-tadeusza-kosciuszki-w/" target="_blank" rel="alternate"><img src="./STRONA GŁÓWNA_files/gwiazdor2.jpg" alt="" width="144" height="48" style="display: block; margin-left: auto; margin-right: auto;"></a></p></div>
+						</div>
+						<div style="clear:both; height:0px"></div>
+					</div>
+				</div>
+
+			</div>
+			
+			</div>
+
+					
+			<div class="module_round_box_outer">
+			
+			<div class="module_round_box">
+
+				<div class="s5_module_box_1">
+					<div class="s5_module_box_2">
+												<div class="s5_mod_h3_outer">
+							<h3 class="s5_mod_h3">
+															<span class="s5_h3_first">MATERIAŁY </span><span class="s5_h3_last"> WIDEO</span>
+								
+							</h3>
+													</div>
+												<div class="s5_mod_h3_below" style="clear:both"></div>
+												<div class="s5_outer">
+						
+
+<div class="custom">
+	<p style="text-align: center;"><span style="color: #ff0000;"><strong>&nbsp;</strong></span></p>
+<p style="text-align: center;"><a href="http://www.sp1.pulawy.pl/index.php/pl/2-uncategorised/41-filmy"><img src="./STRONA GŁÓWNA_files/kamera.jpg" alt=""></a></p>
+<p>&nbsp;</p></div>
+						</div>
+						<div style="clear:both; height:0px"></div>
+					</div>
+				</div>
+
+			</div>
+			
+			</div>
+
+		
+							</div>
+																	</div>
+					</aside>
+								<!-- End Right column -->	
+			</div>
+			</div>
+			<!-- End columns wrap -->	
+			
+		<!-- Below Columns Wrap -->	
+					<!-- End Below Columns Wrap -->				
+			
+			
+		</div>
+		</div>
+		</section>
+			<!-- End Center area -->	
+	
+	
+	<!-- Bottom Row1 -->	
+			<!-- End Bottom Row1 -->	
+		
+		
+	<!-- Bottom Row2 -->	
+			<!-- End Bottom Row2 -->
+	
+	
+	
+	<!-- Bottom Row3 -->	
+			<!-- End Bottom Row3 -->
+	
+	
+	<!-- Footer Area -->
+		<footer id="s5_footer_area1">
+		<div id="s5_footer_area2">
+		<div id="s5_footer_area_inner" class="s5_wrap">
+		<div id="s5_footer_area_inner2">
+		
+							<div id="s5_footer_module">
+							<div class="moduletable">
+			<ul class="nav menu">
+<li class="item-102"><a href="http://www.sp1.pulawy.pl/index.php/pl/login">Author Login</a></li></ul>
+		</div>
+	
+				</div>	
+						
+							<div id="s5_bottom_menu_wrap">
+					
+				</div>	
+						<div style="clear:both; height:0px"></div>
+			
+		</div>
+		</div>
+		</div>
+		</footer>
+  <!-- End Footer Area -->
+	<!-- Bottom Vertex Calls -->
+	<!-- Page scroll, tooltips, multibox, and ie6 warning -->	
+			<div id="s5_scroll_wrap" class="s5_wrap">
+			<script type="text/javascript">
+/*! Jquery scrollto function */
+(function(a,c){var b=(function(){var d=c(a.documentElement),f=c(a.body),e;if(d.scrollTop()){return d}else{e=f.scrollTop();if(f.scrollTop(e+1).scrollTop()==e){return d}else{return f.scrollTop(e)}}}());c.fn.smoothScroll=function(d){d=~~d||400;return this.find('a[href*="#s5"]').click(function(f){var g=this.hash,e=c(g);if(location.pathname.replace(/^\//,'')===this.pathname.replace(/^\//,'')&&location.hostname===this.hostname){if(e.length){f.preventDefault();b.stop().animate({scrollTop:e.offset().top},d,function(){location.hash=g})}}}).end()}}(document,jQuery));
+function initSmoothscroll(){
+	jQuery('html').smoothScroll(700);
+}
+jQuery(document).ready(function(){
+	initSmoothscroll();
+});
+var s5_page_scroll_enabled = 1;
+function s5_page_scroll(obj){ if(jQuery.browser.mozilla) var target = 'html'; else var target='html body'; jQuery(target).stop().animate({scrollTop:jQuery(obj).offset().top},700,function(){location.hash=obj}); } 
+function s5_hide_scroll_to_top_display_none() { if (window.pageYOffset < 300) { document.getElementById("s5_scrolltopvar").style.display = "none"; } }
+function s5_hide_scroll_to_top_fadein_class() { document.getElementById("s5_scrolltopvar").className = "s5_scrolltop_fadein"; }
+function s5_hide_scroll_to_top() {
+	if (window.pageYOffset >= 300) {document.getElementById("s5_scrolltopvar").style.display = "block";
+		document.getElementById("s5_scrolltopvar").style.visibility = "visible";
+		window.setTimeout(s5_hide_scroll_to_top_fadein_class,300);}
+	else {document.getElementById("s5_scrolltopvar").className = "s5_scrolltop_fadeout";window.setTimeout(s5_hide_scroll_to_top_display_none,300);}}
+jQuery(document).ready( function() {s5_hide_scroll_to_top();});
+jQuery(window).resize(s5_hide_scroll_to_top);
+if(window.addEventListener) {
+	window.addEventListener('scroll', s5_hide_scroll_to_top, false);   
+}
+else if (window.attachEvent) {
+	window.attachEvent('onscroll', s5_hide_scroll_to_top); 
+}
+</script>
+<div id="s5_scrolltopvar" class="s5_scrolltop_fadeout" style="visibility: hidden; display: none;">
+<a href="http://www.sp1.pulawy.pl/index.php/pl/#s5_scrolltotop" id="s5_scrolltop_a" class="s5_scrolltotop"></a>
+</div>
+
+
+	
+		</div>
+		<!-- Start compression if enabled -->	
+		
+
+		
+	
+	<script type="text/javascript">
+		var s5_multibox_enabled = 1;
+		jQuery(document).ready(function(){
+			jQuery('.s5mb').each(function(i,z){if(!z.getAttribute('rel'))z.setAttribute('rel','[me]');});
+		}(jQuery));
+		var s5mbox = {};
+				        jQuery(document).ready(function($){
+            initMultibox('.s5mb');
+        });
+		
+			function initMultibox(mbClass){
+		window.s5mbox = new multiBox({
+			mbClass: mbClass,/*class you need to add links that you want to trigger multiBox with (remember and update CSS files)*/
+			container: jQuery(document.body),/*where to inject multiBox*/
+			path: 'http://www.sp1.pulawy.pl/templates/shape5_vertex/js/multibox/',/*path to mp3player and flvplayer etc*/
+			useOverlay: true,/*detect overlay setting*/
+			maxSize: {w:600, h:400},/*max dimensions (width,height) - set to null to disable resizing*/
+			movieSize: {w:400, h:300},
+			addDownload: false,/*do you want the files to be downloadable?*/
+			descClassName: 's5_multibox',/*the class name of the description divs*/
+			pathToDownloadScript: 'http://www.sp1.pulawy.pl/templates/shape5_vertex/js/multibox/forceDownload.asp',/*if above is true, specify path to download script (classicASP and ASP.NET versions included)*/
+			addRollover: false,/*add rollover fade to each multibox link*/
+			addOverlayIcon: false,/*adds overlay icons to images within multibox links*/
+			addChain: false,/*cycle through all images fading them out then in*/
+			recalcTop: true,/*subtract the height of controls panel from top position*/
+			addTips: false,/*adds MooTools built in 'Tips' class to each element (see: http://mootools.net/docs/Plugins/Tips)*/
+			autoOpen: 0/*to auto open a multiBox element on page load change to (1, 2, or 3 etc)*/
+		});	}
+		<!--}(jQuery));-->
+				Eventx.onResizend(function(){		
+			s5mbox.resize(); 
+		});
+			</script>
+
+
+
+
+
+
+
+			
+	
+<!-- Additional scripts to load just before closing body tag -->
+	
+<!-- Info Slide script - JS and CSS called in header -->
+		
+<!-- Scroll Reavel script - JS called in header -->
+		
+	
+<!-- File compression. Needs to be called last on this file -->	
+		
+<!-- Responsive Bottom Mobile Bar -->
+	<!-- Call bottom bar for mobile devices if layout is responsive -->	
+	<div id="s5_responsive_mobile_bottom_bar_outer" style="display:none">
+	<div id="s5_responsive_mobile_bottom_bar" class="s5_responsive_mobile_bar_light">
+		<!-- Call mobile links if links are enabled and cookie is currently set to mobile -->	
+					<div id="s5_responsive_switch_mobile">
+				<a id="s5_responsive_switch" href="http://www.sp1.pulawy.pl/?s5_responsive_switch_wwwsp1pulawypl=0">Desktop Version</a>
+			</div>
+		
+					<div id="s5_responsive_mobile_scroll">
+				<a href="http://www.sp1.pulawy.pl/index.php/pl/#s5_scrolltotop" class="s5_scrolltotop"></a>
+			</div>
+				<div style="clear:both;height:0px"></div>
+	</div>
+	</div>
+
+<!-- Call bottom bar for all devices if user has chosen to see desktop version -->	
+	
+	
+<!-- Closing call for mobile sidebar body wrap defined in includes top file -->
+   <div align="center">
+    © 2009 by Szkoła Podstawowa nr 1 im. Tadeusza Kościuszki w Puławach | A&amp;S</div>
+
+<!-- End Body Padding -->
+</div>
+
+<div id="panel_cookie_dol" class="panel_cookie"><div class="tresc"><h4>Informacje o plikach cookie</h4><p>Używamy plików cookies, aby ułatwić Ci korzystanie z naszego serwisu oraz do celów statystycznych. Jesli nie blokujesz tych plików, to zgadzasz sie na ich użycie oraz zapisanie w pamieci urzadzenia. pamiętaj, że samodzielnie możesz zarządzać cookies zmieniając ustawienia przeglądarki. </p></div><input type="button" id="ukryj" value="Zamknij" onclick="info_cookie();"></div>
+<div id="subMenusContainer" class=""><div class="s5_sub_wrap" id="ul_child_1" style="display: none; visibility: visible; z-index: -100; width: auto; top: 207.391px; float: left; left: 0px;"><ul style="margin-top: -168px; float: left; width: auto; clear: none; left: 0px; opacity: 0;"><li id="li_child_1"><ul style="float: left; clear: none;"><li class="subMenuParentBtn subMenuBtn"><span class="S5_submenu_item"><a href="http://www.sp1.pulawy.pl/index.php/pl/about/2016-02-03-08-55-48" tabindex="-1"><span class="s5_sub_a_span" onclick="window.document.location.href=&quot;/index.php/pl/about/2016-02-03-08-55-48&quot;">Nasza szkoła</span></a></span></li><li class="subMenuParentBtn subMenuBtn"><span class="S5_submenu_item"><a href="http://www.sp1.pulawy.pl/index.php/pl/about/2016-02-03-11-08-16" target="_blank" onclick="this.removeAttribute(&quot;href&quot;)" tabindex="-1"><span class="s5_sub_a_span" onclick="window.open(&quot;/index.php/pl/about/2016-02-03-11-08-16&quot;)">Hymn szkoły</span></a></span></li><li class="subMenuParentBtn subMenuBtn"><span class="S5_submenu_item"><a href="http://www.sp1.pulawy.pl/index.php/pl/about/nasz-patron" tabindex="-1"><span class="s5_sub_a_span" onclick="window.document.location.href=&quot;/index.php/pl/about/nasz-patron&quot;">Nasz patron</span></a></span></li><li class="subMenuParentBtn subMenuBtn"><span class="S5_submenu_item"><a href="http://www.sp1.pulawy.pl/index.php/pl/about/grono-pedagogiczne" tabindex="-1"><span class="s5_sub_a_span" onclick="window.document.location.href=&quot;/index.php/pl/about/grono-pedagogiczne&quot;">Grono pedagogiczne</span></a></span></li><li class="subMenuParentBtn subMenuBtn"><span class="S5_submenu_item"><a href="http://www.sp1.pulawy.pl/index.php/pl/about/samorzad-uczniowski" tabindex="-1"><span class="s5_sub_a_span" onclick="window.document.location.href=&quot;/index.php/pl/about/samorzad-uczniowski&quot;">Samorząd uczniowski</span></a></span></li><li class="subMenuParentBtn subMenuBtn"><span class="S5_submenu_item"><a href="http://www.sp1.pulawy.pl/index.php/pl/about/rada-rodzicow" tabindex="-1"><span class="s5_sub_a_span" onclick="window.document.location.href=&quot;/index.php/pl/about/rada-rodzicow&quot;">Rada rodziców</span></a></span></li></ul></li></ul></div><div class="s5_sub_wrap" id="ul_child_8"><ul style="margin-top: 0px; float: left;"><li id="li_child_8"><ul style="float:left;"><li class="subMenuParentBtn subMenuBtn"><span class="S5_submenu_item"><a href="http://www.sp1.pulawy.pl/tmp/Dokumenty/ofertaszkoly.pdf" target="_blank" onclick="this.removeAttribute(&quot;href&quot;)" tabindex="-1"><span class="s5_sub_a_span" onclick="window.open(&quot;http://www.sp1.pulawy.pl/tmp/Dokumenty/ofertaszkoly.pdf&quot;)">Nasza oferta</span></a></span></li><li class="subMenuParentBtn subMenuBtn"><span class="S5_submenu_item"><a href="http://www.sp1.pulawy.pl/index.php/pl/oferta-edukacyjna/biblioteka" tabindex="-1"><span class="s5_sub_a_span" onclick="window.document.location.href=&quot;/index.php/pl/oferta-edukacyjna/biblioteka&quot;">Biblioteka</span></a></span></li><li class="subMenuParentBtn subMenuBtn"><span class="S5_submenu_item"><a href="http://www.sp1.pulawy.pl/index.php/pl/oferta-edukacyjna/szkolny-klub-europejski" tabindex="-1"><span class="s5_sub_a_span" onclick="window.document.location.href=&quot;/index.php/pl/oferta-edukacyjna/szkolny-klub-europejski&quot;">Szkolny Klub Europejski</span></a></span></li><li class="subMenuParentBtn subMenuBtn"><span class="S5_submenu_item"><a href="http://puzzle-in-cultures-culture-jam.webnode.cz/" target="_blank" onclick="this.removeAttribute(&quot;href&quot;)" tabindex="-1"><span class="s5_sub_a_span" onclick="window.open(&quot;http://puzzle-in-cultures-culture-jam.webnode.cz&quot;)">eTwining</span></a></span></li><li class="subMenuParentBtn subMenuBtn"><span class="S5_submenu_item"><a href="http://www.sp1.pulawy.pl/index.php/pl/oferta-edukacyjna/2016-02-05-12-43-17" target="_blank" onclick="this.removeAttribute(&quot;href&quot;)" tabindex="-1"><span class="s5_sub_a_span" onclick="window.open(&quot;/index.php/pl/oferta-edukacyjna/2016-02-05-12-43-17&quot;)">ERASMUS</span></a></span></li></ul></li></ul></div><div class="s5_sub_wrap" id="ul_child_14" style="display: none; visibility: visible; z-index: -100; width: auto; top: 207.391px; float: left; left: 0px;"><ul style="margin-top: -144px; float: left; width: auto; clear: none; left: 0px; opacity: 0;"><li id="li_child_14"><ul style="float: left; clear: none;"><li class="subMenuParentBtn subMenuBtn"><span class="S5_submenu_item"><a href="http://www.sp1.pulawy.pl/index.php/pl/informacje-i-ogloszenia/ogloszenia" tabindex="-1"><span class="s5_sub_a_span" onclick="window.document.location.href=&quot;/index.php/pl/informacje-i-ogloszenia/ogloszenia&quot;">Ogłoszenia</span></a></span></li><li class="subMenuParentBtn subMenuBtn"><span class="S5_submenu_item"><a href="http://www.sp1.pulawy.pl/index.php/pl/informacje-i-ogloszenia/alternatywa" tabindex="-1"><span class="s5_sub_a_span" onclick="window.document.location.href=&quot;/index.php/pl/informacje-i-ogloszenia/alternatywa&quot;">Alternatywa</span></a></span></li><li class="subMenuParentBtn subMenuBtn"><span class="S5_submenu_item"><a href="http://www.sp1.pulawy.pl/index.php/pl/informacje-i-ogloszenia/stolowka-obiady" tabindex="-1"><span class="s5_sub_a_span" onclick="window.document.location.href=&quot;/index.php/pl/informacje-i-ogloszenia/stolowka-obiady&quot;">Stołówka / Obiady</span></a></span></li><li class="subMenuParentBtn subMenuBtn"><span class="S5_submenu_item"><a href="http://www.sp1.pulawy.pl/index.php/pl/informacje-i-ogloszenia/dokumenty-do-pobrania" tabindex="-1"><span class="s5_sub_a_span" onclick="window.document.location.href=&quot;/index.php/pl/informacje-i-ogloszenia/dokumenty-do-pobrania&quot;">Dokumenty do pobrania</span></a></span></li><li class="subMenuParentBtn subMenuBtn"><span class="S5_submenu_item"><a href="http://www.sp1.pulawy.pl/index.php/pl/informacje-i-ogloszenia/przydatne-strony-www" tabindex="-1"><span class="s5_sub_a_span" onclick="window.document.location.href=&quot;/index.php/pl/informacje-i-ogloszenia/przydatne-strony-www&quot;">Przydatne strony www</span></a></span></li></ul></li></ul></div><div class="s5_sub_wrap" id="ul_child_20"><ul style="margin-top: 0px; float: left;"><li id="li_child_20"><ul style="float:left;"><li class="subMenuParentBtn subMenuBtn"><span class="S5_submenu_item"><a href="http://www.sp1.pulawy.pl/index.php/pl/nasze-sukcesy/konkursy" tabindex="-1"><span class="s5_sub_a_span" onclick="window.document.location.href=&quot;/index.php/pl/nasze-sukcesy/konkursy&quot;">Konkursy</span></a></span></li></ul></li></ul></div></div><div id="goog-gt-tt" class="skiptranslate" dir="ltr"><div style="padding: 8px;"><div><div class="logo"><img src="./STRONA GŁÓWNA_files/translate_24dp.png" width="20" height="20" alt="Google Translate"></div></div></div><div class="top" style="padding: 8px; float: left; width: 100%;"><h1 class="title gray">Original text</h1></div><div class="middle" style="padding: 8px;"><div class="original-text"></div></div><div class="bottom" style="padding: 8px;"><div class="activity-links"><span class="activity-link">Contribute a better translation</span><span class="activity-link"></span></div><div class="started-activity-container"><hr style="color: #CCC; background-color: #CCC; height: 1px; border: none;"><div class="activity-root"></div></div></div><div class="status-message" style="display: none;"></div></div><div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="fb_xdm_frame_http" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" id="fb_xdm_frame_http" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="./STRONA GŁÓWNA_files/5oivrH7Newv.html" style="border: none;"></iframe><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="./STRONA GŁÓWNA_files/5oivrH7Newv(1).html" style="border: none;"></iframe></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div></div></div></div><div class="goog-te-spinner-pos"><div class="goog-te-spinner-animation"><svg xmlns="http://www.w3.org/2000/svg" class="goog-te-spinner" width="96px" height="96px" viewBox="0 0 66 66"><circle class="goog-te-spinner-path" fill="none" stroke-width="6" stroke-linecap="round" cx="33" cy="33" r="30"></circle></svg></div></div></body></html>
